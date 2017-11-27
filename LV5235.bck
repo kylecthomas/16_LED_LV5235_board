@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS251
+D Multiplexer 8 to 1, 3 state Out
+K TTL MUX MUX8 3State
+$ENDCMP
+#
+$CMP LV5235
+D Multiplexer 8 to 1, 3 state Out
+K TTL MUX MUX8 3State
+$ENDCMP
+#
+#End Doc Library

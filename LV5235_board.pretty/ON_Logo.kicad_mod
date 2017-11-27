@@ -1,0 +1,18 @@
+(module ON_Logo (layer F.Cu) (tedit 59B6B53D)
+  (fp_text reference REF** (at 0 2.159) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value ON_Logo (at 0 -2.413) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "Rev 1.0" (at 0 11.43) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "NOA1214 LED BOARDS" (at 0 10.16) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 0 0) (end -2.54 -2.54) (layer F.SilkS) (width 0.762))
+  (fp_text user ON (at 0 0) (layer F.SilkS)
+    (effects (font (size 2.54 2.54) (thickness 0.635)))
+  )
+)
